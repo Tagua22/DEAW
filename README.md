@@ -3,13 +3,13 @@
 Este proyecto ha sido desarrollado como parte del módulo Programación en el 1º curso de Desarrollo de Aplicaciones Web (DAW).
 
 🛠️ Tecnologías utilizadas
-    💻 Lenguaje: Java / Python / HTML + CSS + JS (elige según tu proyecto)
+    💻 Lenguaje: Java / DTD / HTML + CSS + JS
 
-    🧰 IDE: IntelliJ IDEA / Visual Studio Code / NetBeans
+    🧰 IDE: Visual Studio Code / Eclipse
 
     🗃️ Git y GitHub para control de versiones
 
-    📋 Otros: SQLite, MySQL, Bootstrap, etc. (según corresponda)
+    📋 Otros: SQLite, MySQL, Bootstrap, etc.
 
 📌 Objetivo del proyecto
 El objetivo principal de este proyecto es:
@@ -19,18 +19,11 @@ El objetivo principal de este proyecto es:
     ✅ Familiarizarse con el uso de control de versiones y trabajo en entornos reales.
 
 🧩 Funcionalidades principales
-    ✅ Funcionalidad 1: Descripción breve
-
-    ✅ Funcionalidad 2: Descripción breve
-
-    ✅ Funcionalidad 3: Descripción breve
+    ✅ GitHub 1: Aprender sobre GitHub los conocimientos basicos
 
 📷 Capturas de pantalla
-Añade aquí imágenes o gifs mostrando el funcionamiento de la app
+<img src="C:\Users\usuario\Downloads\luffy.jpg">
 
 👨‍💻 Autor
-Tu Nombre – @TuUsuarioGitHub
-Proyecto realizado para 1º DAW – IES TuCentro
-
-📝 Licencia
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más información.
+Alejandro Tagua Aguilar
+Proyecto realizado para 1º DAW – IES Luis Vélez de Guevara
